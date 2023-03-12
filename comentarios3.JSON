@@ -1,1 +1,22 @@
-
+[
+  {
+    "nombre": "Sara Rodríguez",
+    "comentario": "¡Esta comida para gatos de alta calidad es increíble! Mi gato es bastante exigente con la comida, pero esta opción le encanta. ¡Vale cada centavo!"
+  },
+  {
+    "nombre": "Lucas Sánchez",
+    "comentario": "Mi gato es bastante sensible a los ingredientes en la comida, pero esta opción de alta calidad no le ha dado ningún problema. Su pelaje está más brillante y suave que nunca. ¡Definitivamente seguiré comprando este producto!"
+  },
+  {
+    "nombre": "Carolina González",
+    "comentario": "Compré esta comida de alta calidad para mi gato que tiene problemas digestivos y ha sido una gran solución. ¡Le encanta y no ha tenido ningún problema de salud desde que comenzó a comerla!"
+  },
+  {
+    "nombre": "Andrés Torres",
+    "comentario": "Esta comida para gatos de alta calidad es una excelente opción si quieres darle lo mejor a tu gato. Mi gato lo devora en segundos y ha estado más saludable y activo desde que comenzó a comerlo. ¡Muy recomendado!"
+  },
+  {
+    "nombre": "Mariana Hernández",
+    "comentario": "Desde que cambié a esta comida para gatos de alta calidad, he notado una gran diferencia en la salud y el bienestar de mi gato. ¡El sabor y la calidad son inmejorables!"
+  }
+]
