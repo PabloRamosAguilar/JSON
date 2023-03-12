@@ -1,1 +1,22 @@
-
+[
+  {
+    "nombre": "Gabriel Torres",
+    "comentario": "Desde que empecé a darle esta comida rica en nutrientes a mi gato, ha estado más activo y saludable. ¡Definitivamente seguiré comprando este producto!"
+  },
+  {
+    "nombre": "Fernanda González",
+    "comentario": "Mi gato es un poco quisquilloso con la comida, pero ama esta opción rica en nutrientes. Su pelaje está más brillante y suave que nunca. ¡Recomendado!"
+  },
+  {
+    "nombre": "Rodrigo García",
+    "comentario": "Mi gato es bastante mayor y tiene algunos problemas digestivos, pero esta comida rica en nutrientes le ha ayudado mucho. ¡Gracias por hacer un producto tan bueno!"
+  },
+  {
+    "nombre": "Isabella Hernández",
+    "comentario": "Compré esta comida para gatos rica en nutrientes para mi gato que tiene alergias alimentarias y ha sido una gran solución. ¡Le encanta y no ha tenido reacciones adversas!"
+  },
+  {
+    "nombre": "Diego Martínez",
+    "comentario": "Esta comida para gatos rica en nutrientes es una excelente opción si quieres mantener a tu gato saludable y lleno de energía. ¡Mi gato está más feliz que nunca!"
+  }
+]
